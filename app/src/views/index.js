@@ -1,0 +1,7 @@
+export { default as ApiTestView } from './ApiTestView.vue'
+export { default as DetailsView } from './DetailsView.vue'
+export { default as HomeView } from './HomeView.vue'
+export { default as LandingView } from './LandingView.vue'
+export { default as LoginView } from './LoginView.vue'
+export { default as PiniaTest } from './PiniaTest.vue'
+export { default as PostsView } from './PostsView.vue'
