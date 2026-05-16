@@ -1,4 +1,4 @@
-# 🌍 Vue Travel Template (Starter Kit)
+# 🌍 Vue  Template (Starter Kit)
 
 A modern, scalable Vue 3 + Vite + Tailwind CSS starter template built for travel websites, booking systems, blogs, and interactive platforms.
 
@@ -15,7 +15,6 @@ This project is structured like a real production application to help you build 
 - 🔌 Axios API integration layer
 - 🧱 Clean modular folder structure
 - 🧩 Reusable UI components system
-- 🌍 Travel-focused pages (Destinations, Journeys, etc.)
 - 🧪 JSON fake backend support (optional)
 - 🚀 Ready for Vercel deployment
 
