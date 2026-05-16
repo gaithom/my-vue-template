@@ -54,7 +54,8 @@ app/
 
 ## 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/vue-travel-template.git
+git clone https://github.com/YOUR_USERNAME/my-vue-template.git
+for linux users use ssh
 
 ---
 
