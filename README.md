@@ -1,6 +1,6 @@
 # 🌍 Vue  Template (Starter Kit)
 
-A modern, scalable Vue 3 + Vite + Tailwind CSS starter template built for travel websites, booking systems, blogs, and interactive platforms.
+A modern, scalable Vue 3 + Vite + Tailwind CSS starter template built for websites, booking systems, blogs, and interactive platforms.
 
 This project is structured like a real production application to help you build fast, clean, and reusable Vue projects.
 
@@ -61,7 +61,7 @@ for linux users use ssh
 
 ## 2. Move into Project Folder
 
-cd vue-travel-template
+cd my-vue-template
 
 ---
 
@@ -129,19 +129,6 @@ VITE_API_URL=http://localhost:3000
 
 ---
 
-# 🧭 Pages Included
-
-- Destinations
-- Experiences
-- Journeys
-- Journal
-- Our Story
-- Explore
-- Travel Tips
-- FAQ
-- Contact
-
----
 
 # 🧩 Architecture Overview
 
@@ -153,20 +140,6 @@ Helpers → Utilities
 
 ---
 
-# 🧭 Routing Overview
-
-/ → Landing Page  
-/destinations → Destinations  
-/experiences → Experiences  
-/journeys → Journeys  
-/journal → Journal  
-/our-story → Our Story  
-/explore → Explore  
-/travel-tips → Travel Tips  
-/faq → FAQ  
-/contact → Contact  
-
----
 
 # 🚀 Build for Production
 
@@ -182,17 +155,6 @@ npm run preview
 2. Import to Vercel  
 3. Set root directory to: app  
 4. Deploy 🚀  
-
----
-
-# 💡 Use Cases
-
-- Travel booking websites
-- Tourism agencies
-- Travel blogs
-- SaaS dashboards
-- Portfolio websites
-- Content platforms
 
 ---
 
